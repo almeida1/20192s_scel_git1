@@ -4,4 +4,5 @@ public class Usuario {
 	String ra;
 	String nome;
 	String endereco;
+	//Nova tentativa
 }
