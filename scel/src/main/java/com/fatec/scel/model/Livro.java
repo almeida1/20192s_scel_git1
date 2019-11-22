@@ -13,7 +13,7 @@ import org.hibernate.annotations.NaturalId;
 
 @Entity(name = "Livro")
 public class Livro {
-	
+	//Aula 21/11 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
