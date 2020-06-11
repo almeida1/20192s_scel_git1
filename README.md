@@ -6,4 +6,6 @@
 - Thomas Jefferson
 
 ### Objetivo
-#### Este projeto tem como  objetivo implementar uma aplicação de emprestimo e devolucao de livro para se familiarizar com a plataforma de desenvolvilmento de software web Spring Boot
+#### Este projeto tem como  objetivo implementar uma aplicação de emprestimo e devolucao de livros, para se familiarizar com a plataforma de desenvolvilmento de software web Spring Boot
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
