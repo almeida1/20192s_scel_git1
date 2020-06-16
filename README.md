@@ -1,5 +1,6 @@
-## Sistema de Controle de Emprestimo e Devolução de Livros
-### Fatec Ferraz - Curso de Análise e Desenvolvimento de Sistemas
+## Projeto - Sistema de Controle de Empréstimo e Devolução de Livros
+### Centro Paula Souza -  Fatec Ferraz - Curso de Análise e Desenvolvimento de Sistemas
+### Disciplina – Programação Web – Prof. Edson Saraiva de Almeida
 ### Grupo 1
 - George Washington
 - John Adams
