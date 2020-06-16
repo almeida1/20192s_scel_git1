@@ -7,7 +7,7 @@
 - Thomas Jefferson
 
 ### Objetivo
-Este projeto tem como  objetivo implementar uma aplicação de emprestimo e devolução de livros, para se familiarizar com a plataforma de desenvolvilmento web JEE Spring Boot
+Este projeto tem como  objetivo implementar uma aplicação de emprestimo e devolução de livros, para se familiarizar com a plataforma de desenvolvimento web JEE Spring Boot
 
 ### Processo de Desenvolvimento
 O processo de desenvolvimento segue uma adaptação do Scrum. Cada interação tem a duração de 4 aulas. Ao final da interação o código é avaliado pelo time junto com o professor na atividade de revisão da sprint. 
